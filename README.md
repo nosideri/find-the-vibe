@@ -11,10 +11,10 @@ Find The Vibe is a website that consolidates searching for music, listening to m
 * Spotify API
 
 ## Website
-
+https://nosideri.github.io/find-the-vibe/
 
 #### Preview
-
+http://prntscr.com/uoxijf
 
 ## Contribution
 Made with ❤️ by Madison Stollmeyer, Kyle Morarity, and Chris Meissner
